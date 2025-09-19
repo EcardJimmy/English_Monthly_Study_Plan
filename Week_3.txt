@@ -1,0 +1,49 @@
+Week 3 – 克漏字與閱讀理解
+
+文章 (Cloze / 克漏字)
+
+Climate change has become one of the most pressing issues of the 21st century. Scientists warn that global temperatures are rising at an unprecedented rate, leading to more frequent and severe weather events. Many coastal cities are facing threats from rising sea levels, while agricultural regions may experience shifts in crop yields due to changing precipitation patterns. To mitigate these challenges, governments and organizations worldwide are advocating for sustainable practices, such as reducing carbon emissions, investing in renewable energy, and promoting environmental awareness. Although the solutions may be complex and require significant economic investment, the long-term benefits for humanity and the planet are undeniable.
+
+克漏字部分 (Cloze)
+
+Climate change has become one of the most ______ issues of the 21st century.
+A. trivial
+B. pressing
+C. negligible
+D. obscure
+
+Many coastal cities are facing threats from rising ______.
+A. mountains
+B. sea levels
+C. forests
+D. deserts
+
+Governments advocate for sustainable practices to reduce ______ emissions.
+A. oxygen
+B. carbon
+C. nitrogen
+D. helium
+
+Renewable energy investment is promoted to ______ the challenges caused by climate change.
+A. exacerbate
+B. mitigate
+C. ignore
+D. intensify
+
+Despite the complexity of solutions, the long-term benefits for humanity and the ______ are undeniable.
+A. economy
+B. society
+C. planet
+D. politics
+
+答案
+
+B. pressing
+
+B. sea levels
+
+B. carbon
+
+B. mitigate
+
+C. planet

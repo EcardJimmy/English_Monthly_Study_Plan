@@ -1,0 +1,49 @@
+Week 1 – 克漏字與閱讀理解
+
+文章 (Cloze / 克漏字)
+
+In recent years, technological advancements have dramatically transformed the way people communicate and access information. Social media platforms allow users to share their thoughts instantly, while smartphones provide constant connectivity. Although these innovations have many benefits, they also present challenges, such as privacy concerns, the spread of misinformation, and decreased face-to-face interaction. Educators and policymakers emphasize the importance of digital literacy to ensure that individuals can critically evaluate online content and use technology responsibly.
+
+克漏字部分 (Cloze)
+
+Technological advancements have dramatically ______ the way people communicate.
+A. hindered
+B. transformed
+C. ignored
+D. diminished
+
+Social media platforms allow users to share their thoughts ______.
+A. slowly
+B. instantly
+C. rarely
+D. secretly
+
+Innovations also present challenges, such as privacy concerns and the spread of ______.
+A. misinformation
+B. happiness
+C. efficiency
+D. inspiration
+
+Educators emphasize the importance of digital ______.
+A. literacy
+B. ignorance
+C. dependency
+D. secrecy
+
+Using technology responsibly helps individuals critically ______ online content.
+A. evaluate
+B. ignore
+C. avoid
+D. conceal
+
+答案
+
+B. transformed
+
+B. instantly
+
+A. misinformation
+
+A. literacy
+
+A. evaluate

@@ -1,0 +1,49 @@
+Week 4 – 克漏字與閱讀理解
+
+文章 (Cloze / 克漏字)
+
+Renewable energy sources, such as solar, wind, and hydroelectric power, are essential to reducing reliance on fossil fuels. Unlike traditional energy production, renewable energy generates electricity with minimal greenhouse gas emissions. Countries investing in renewables not only decrease pollution but also create new economic opportunities, including job growth in technology and infrastructure sectors. Despite initial costs and technological challenges, the long-term benefits for the environment and global economy are significant. Encouraging innovation and international cooperation is key to transitioning toward a more sustainable energy future.
+
+克漏字部分 (Cloze)
+
+Renewable energy sources help reduce reliance on ______ fuels.
+A. fossil
+B. renewable
+C. nuclear
+D. synthetic
+
+Renewable energy generates electricity with minimal ______ gas emissions.
+A. greenhouse
+B. oxygen
+C. nitrogen
+D. carbon monoxide
+
+Investing in renewables decreases pollution and creates economic ______.
+A. opportunities
+B. failures
+C. barriers
+D. losses
+
+Despite initial costs and technological challenges, the long-term benefits for the environment and global ______ are significant.
+A. economy
+B. politics
+C. society
+D. culture
+
+Encouraging innovation and international ______ is key to sustainable energy.
+A. cooperation
+B. competition
+C. isolation
+D. hesitation
+
+答案
+
+A. fossil
+
+A. greenhouse
+
+A. opportunities
+
+A. economy
+
+A. cooperation
