@@ -1,2 +1,38 @@
-# English_Monthly_Study_Plan
-English_Monthly_Study_Plan
+## 一個月大學學測英文讀書計畫
+### [Day_01 單字/片語](Day_01.txt)
+### [Day_02 單字/片語](Day_02.txt)
+### [Day_03 單字/片語](Day_03.txt)
+### [Day_04 單字/片語](Day_04.txt)
+### [Day_05 單字/片語](Day_05.txt)
+### [Day_06 單字/片語](Day_06.txt)
+### [Day_07 單字/片語](Day_07.txt)
+### [Week_1 克漏字與閱讀理解](Week_1.txt)
+---
+### [Day_08 單字/片語](Day_08.txt)
+### [Day_09 單字/片語](Day_09.txt)
+### [Day_10 單字/片語](Day_10.txt)
+### [Day_11 單字/片語](Day_11.txt)
+### [Day_12 單字/片語](Day_12.txt)
+### [Day_13 單字/片語](Day_13.txt)
+### [Day_14 單字/片語](Day_14.txt)
+### [Week_2 克漏字與閱讀理解](Week_2.txt)
+---
+### [Day_15 單字/片語](Day_15.txt)
+### [Day_15 單字/片語](Day_15.txt)
+### [Day_16 單字/片語](Day_16.txt)
+### [Day_17 單字/片語](Day_17.txt)
+### [Day_18 單字/片語](Day_18.txt)
+### [Day_19 單字/片語](Day_19.txt)
+### [Day_20 單字/片語](Day_20.txt)
+### [Day_21 單字/片語](Day_21.txt)
+### [Week_3 克漏字與閱讀理解](Week_3.txt)
+---
+### [Day_22 單字/片語](Day_22.txt)
+### [Day_23 單字/片語](Day_23.txt)
+### [Day_24 單字/片語](Day_24.txt)
+### [Day_25 單字/片語](Day_25.txt)
+### [Day_26 單字/片語](Day_26.txt)
+### [Day_27 單字/片語](Day_27.txt)
+### [Day_28 單字/片語](Day_28.txt)
+### [Week_4 克漏字與閱讀理解](Week_4.txt)
+---
